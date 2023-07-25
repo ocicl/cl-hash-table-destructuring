@@ -1,0 +1,10 @@
+* cl-hash-table-destructuring
+
+Common Lisp hash table destructuring utils.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/andrey-tikhonov/cl-hash-table-destructuring.git   |
+| commit  | 124b6e0  |
+| systems | cl-hash-table-destructuring |
+|---------+-------------------------------------------|
+
