@@ -8,4 +8,4 @@ Common Lisp hash table destructuring utils.
 | systems | cl-hash-table-destructuring |
 |---------+-------------------------------------------|
 
- 
+  
